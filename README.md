@@ -18,3 +18,6 @@ chmod +x ./setup.sh
 chmod +x ./deploy.sh
 ./deploy.sh 
 ```
+Access the application in your browser:
+[Open RabbitMQ App](http://rabbitmq.localhost/)
+
